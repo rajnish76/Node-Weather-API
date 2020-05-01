@@ -4,8 +4,7 @@
 
 ## Usage
 
-It convert address into geocode and then give weather details
-It uses two APIs
+It convert address into geocode and then give weather details. It uses two APIs :-
 - openweathermap
 - mapbox
 
